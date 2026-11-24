@@ -40,13 +40,21 @@ The analysis helps understand the relationship between restaurant pricing, custo
 8. Key insights and conclusions
 
 ## Visualizations
-The project includes visualizations covering:
 
-- Top 10 cuisines in Chennai
-- Restaurant pricing vs customer ratings
-- Online ordering and customer ratings
-- Restaurant competition analysis
-- Neighbourhood analysis
+### 1. Top 10 Cuisines in Chennai
+![Top 10 Cuisines](Charts/top_10_cuisines.png)
+
+### 2. Restaurant Pricing vs Customer Ratings
+![Price vs Ratings](Charts/price_vs_ratings.png)
+
+### 3. Delivery Time vs Customer Ratings
+![Delivery vs Ratings](Charts/delivery_vs_ratings.png)
+
+### 4. Restaurant Competition Analysis
+![Cuisine Competition](Charts/cuisine_competition.png)
+
+### 5. Neighbourhood Analysis
+![Neighbourhood Analysis](Charts/neighborhood_analysis.png)
 
 ## Key Outcomes
 The analysis explores:
